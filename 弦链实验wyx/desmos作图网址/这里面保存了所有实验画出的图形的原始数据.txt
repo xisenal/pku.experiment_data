@@ -1,0 +1,19 @@
+波函数定性形状拟合（实验）：
+网址：https://www.desmos.com/calculator/tcdsvyurwr
+嵌入地址：<iframe src="https://www.desmos.com/calculator/ohrxycatpw?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+N=6,t=0.33,波函数形式：
+网址：https://www.desmos.com/calculator/ndbgojt5mu
+嵌入地址：<iframe src="https://www.desmos.com/calculator/ndbgojt5mu?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+有限周期弦链的振动实验数据：
+网址：https://www.desmos.com/calculator/iniiaoczgw
+嵌入地址：<iframe src="https://www.desmos.com/calculator/iniiaoczgw?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+第一带边态：
+网址：https://www.desmos.com/calculator/taneyoxrrf
+嵌入地址：<iframe src="https://www.desmos.com/calculator/taneyoxrrf?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+第二带边态：
+网址：https://www.desmos.com/calculator/kv1bonawi2
+嵌入地址：<iframe src="https://www.desmos.com/calculator/kv1bonawi2?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>

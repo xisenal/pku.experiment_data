@@ -1,0 +1,19 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+#设置参数：
+mu_0=0.000549
+m_b=0.106*10**(-3)
+a_num=0.2
+F_T=9.01
+
+fx=np.linspace(0,1000,100000)
+fx=np.array(fx)
+f1=np.cos(np.sqrt(mu_0/F_T)*2*np.pi*a_num*fx)-((m_b*2*np.pi*fx)/(2*F_T))*np.sqrt(F_T/mu_0)*np.sin(np.sqrt(mu_0/F_T)*2*np.pi*a_num*fx)
+f2=np.ones(100000)
+f2=np.array(f2)
+f3=abs(f1)-f2
+
+for i in range(100,100000):
+    if f3[i-1]*f3[i]<0:
+        print(fx[i])

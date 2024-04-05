@@ -1,0 +1,17 @@
+Input File: e:\srs004.78d
+Measure Group: Swept Sine
+Measurement: Lin Spec 2
+Num of extracted Points: 80
+Start Freq.: 40 Hz
+Stop  Freq.: 130 Hz
+Sweep Type: Linear
+Auto Level: Off
+Amplitude: 1000.0 mV
+Source Ramping: Off
+Source Offset:   0.0 mV
+Settle Time:   500 ms
+Settle Cycles:   10
+Integration Time:   1 s
+Integration Cycles:  100
+
+ X[Hz]        Mag[dBVpk]   
