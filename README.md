@@ -16,4 +16,5 @@ The Comprehensive Physics Experiment Course is an innovative and practical exper
 If there are any omissions in my program, you can correct them by email and I will make timely corrections. Thank you again for reading.
 <br>
 如果我的程序有任何疏漏，您可以通过邮件来对错误进行指正，我会进行及时的修改，再次感谢您的阅读。
+<br>
 my e-mail: 2200011302@stu.pku.edu.cn
